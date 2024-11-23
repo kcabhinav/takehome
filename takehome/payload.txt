@@ -1,0 +1,10 @@
+{
+    "name": "waduhek",
+    "email": "waduhek@qq.com",
+    "mobile_number": "12345678901",
+    "city": "beijing",
+    "password": "waduhek",
+    "referral_code": "3ABBC4F3"
+}
+3ABBC4F3
+C26302A9
